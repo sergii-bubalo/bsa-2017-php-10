@@ -37,6 +37,7 @@ class Task1RegisterTest extends DuskTestCase
             $browser->visit('/register')
                 ->assertSee('Register')
                 ->type('first_name', $this->userData['first_name'])
+                ->type('last_name', $this->userData['last_name])
                 ->type('email', $this->userData['email'])
                 ->value('input[name=password]', $this->userData['password'])
                 ->value('input[name=password_confirmation]', $this->userData['password'])
