@@ -1,0 +1,15 @@
+[0723/120903.403:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0723/120903.404:ERROR:exception_snapshot_win.cc(87)] thread ID 6472 not found in process
+[0723/120903.404:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0723/173524.444:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0723/173524.446:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0723/173524.446:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0723/173524.446:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0723/173524.446:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0723/173524.446:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0723/173524.447:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0723/173524.447:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0723/173524.447:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0723/173524.447:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0723/173524.447:ERROR:exception_snapshot_win.cc(87)] thread ID 636 not found in process
+[0723/173524.447:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
